@@ -37,7 +37,7 @@ The Postman collection includes the following API test scenarios:
 
 ## QA Value
 
-This API testing section demonstrates my ability to validate backend API behavior, test common REST API operations, inspect JSON responses, write Postman test assertions, use environment variables, and organize API tests as part of a complete QA portfolio.
+This API testing section demonstrates my ability to validate backend API behavior, test common REST API operations, inspect JSON responses, write Postman test assertions, and use environment variables effectively. It also reflects my understanding of API limitations in mock environments and how to validate responses based on structure, status codes, and expected behavior rather than data persistence.
 
 ## Side Note
 Note: JSONPlaceholder is a mock API. PUT, POST, and DELETE requests return successful responses but do not persist changes. Validation is based on returned response body, status codes, and request/response structure.
