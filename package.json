@@ -1,0 +1,23 @@
+{
+  "name": "qa-e2e-portfolio_1",
+  "version": "1.0.0",
+  "description": "End-to-end QA portfolio covering the following tasks...\r   1. manual testing\r   2. Playwright automation\r   3. API testing\r   4. Performance testing\r   5. Bug reporting\r   6. CI/CD",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtradiuz/qa-e2e-portfolio_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/xtradiuz/qa-e2e-portfolio_1/issues"
+  },
+  "homepage": "https://github.com/xtradiuz/qa-e2e-portfolio_1#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  }
+}
