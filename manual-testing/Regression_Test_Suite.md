@@ -81,3 +81,19 @@ Run this suite:
 ## Notes
 
 This regression suite is also partially automated using Playwright to ensure consistency and faster execution in CI/CD pipelines.
+
+
+## Regression Execution Results
+
+| Test ID | Scenario | Test Type | Status | Notes |
+|---|---|---|---|---|
+| REG-001 | Valid user can log in | Manual / Automated | Pass | Covered by Playwright |
+| REG-002 | Invalid login shows error | Manual / Automated | Pass | Covered by Playwright |
+| REG-003 | Locked-out user cannot log in | Manual / Automated | Pass | Covered by Playwright |
+| REG-004 | Product list loads after login | Manual / Automated | Pass | Covered by Playwright |
+| REG-005 | User can add item to cart | Manual / Automated | Pass | Covered by Playwright |
+| REG-006 | User can remove item from cart | Manual / Automated | Pass | Covered by Playwright |
+| REG-007 | Cart count updates correctly | Manual / Automated | Pass | Covered by Playwright |
+| REG-008 | Checkout requires required fields | Manual / Automated | Pass | Covered by Playwright |
+| REG-009 | User can complete checkout | Manual / Automated | Pass | Covered by Playwright |
+| REG-010 | User can log out | Manual / Automated | Pass | Covered by Playwright |
